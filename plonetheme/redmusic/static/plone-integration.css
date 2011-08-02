@@ -1,0 +1,37 @@
+#footer{
+    padding-top: 90px;
+    padding-left:130px;
+}
+
+#text li{
+    display:block;
+}
+
+a:link,
+#breadcrumbs-home a,
+#content a:link,
+dl.portlet a:link{
+    color: #EE4400;
+}
+a:visited,
+#breadcrumbs-home a:visited,
+#content a:visited,
+dl.portlet a:visited{
+    color: #902f08;
+}
+
+#footer a:link{
+	color:#FFF;
+}
+
+#footer a:visited{
+	color:#ccc;
+}
+dl.portlet dt, div.portletAssignments div.portletHeader{
+	background-color:#FFF;
+	font-size:110%;
+}
+
+#edit-bar{
+	width: 570px;
+}
