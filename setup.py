@@ -9,7 +9,7 @@ setup(
         long_description=open('README.rst', 'rb').read()+'\n'+
                          open(os.path.join("docs", "INSTALL.txt")).read()+'\n'+
                          open(os.path.join("docs", "HISTORY.txt")).read(),
-        version='1.1',
+        version=version,
         author='Giacomo Spettoli',
         author_email='giacomo.spettoli@gmail.com',
         maintainer='Leonardo Caballero',
