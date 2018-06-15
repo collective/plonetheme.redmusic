@@ -3,6 +3,8 @@ Changelog
 
 1.1 (unreleased)
 ----------------
+- Updated diazo theme manifest file [macagua]
+- Added preview file for diazo theme manifest file [macagua]
 - unused rules removed [giacomos]
 - fixes doctype [giacomos]
 
