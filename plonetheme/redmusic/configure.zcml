@@ -9,14 +9,22 @@
 
   <genericsetup:registerProfile
       name="default"
-      title="Plone 4 Theme: Redmusic"
+      title="plonetheme.redmusic"
       directory="profiles/default"
       description="Installs the plonetheme.redmusic package"
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
 
+  <genericsetup:registerProfile
+      name="uninstall"
+      title="plonetheme.redmusic: Uninstall profile for Plone 4 Diazo Theme"
+      directory="profiles/uninstall"
+      description="Uninstalls the plonetheme.redmusic package"
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      />
+
 <!--    <browser:resourceDirectory
-        directory="static" name="plonetheme.coolblue" />-->
+        directory="static" name="plonetheme.redmusic" />-->
 
   <include package="plone.resource" file="meta.zcml"/>
   <plone:static directory="static" type="theme" name="plonetheme.redmusic" />
