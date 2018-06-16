@@ -10,6 +10,7 @@ setup(
                          open(os.path.join("docs", "INSTALL.txt")).read()+'\n'+
                          open(os.path.join("docs", "HISTORY.txt")).read(),
         version=version,
+        keywords='web zope plone theme diazo redmusic',
         author='Giacomo Spettoli',
         author_email='giacomo.spettoli@gmail.com',
         maintainer='Leonardo Caballero',
