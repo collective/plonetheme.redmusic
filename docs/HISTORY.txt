@@ -3,6 +3,15 @@ Changelog
 
 1.1 (unreleased)
 ----------------
+
+- Added the keywords for setuptools metadata classifier [macagua]
+- Updated the Diazo theme package (Zip file) [macagua]
+- Added HTML5 validation for HTML file [macagua]
+- Added improvements about README file [macagua]
+- Added more strings classifiers items for this packages [macagua]
+- Added support for clean uninstallation using GenericSetup profile [macagua]
+- Updated diazo theme manifest file [macagua]
+- Added preview file for diazo theme manifest file [macagua]
 - unused rules removed [giacomos]
 - fixes doctype [giacomos]
 
