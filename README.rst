@@ -24,7 +24,7 @@ Screenshots
 
 Layout of the site when viewed in a computer resolution:
 
-.. image:: https://github.com/giacomos/plonetheme.redmusic/raw/master/plonetheme/redmusic/static/preview.png
+.. image:: hhttps://raw.githubusercontent.com/collective/plonetheme.redmusic/master/plonetheme/redmusic/static/preview.png
 
 
 Features
@@ -70,7 +70,7 @@ Zip file
 
 If you are an **end user**, you might enjoy installation via zip file import.
 
-1. Download a `zip file <https://github.com/giacomos/plonetheme.redmusic/raw/master/plonetheme.redmusic.zip>`_.
+1. Download a `zip file <https://github.com/collective/plonetheme.redmusic/raw/master/redmusic.zip>`_.
 2. Import the theme from the Diazo theme control panel.
 
 
@@ -83,8 +83,8 @@ Browse to ``http://yoursite/Plone/@@theming-controlpanel`` click on ``Enable`` o
 Contribute
 ==========
 
-- Issue Tracker: https://github.com/giacomos/plonetheme.redmusic/issues
-- Source Code: https://github.com/giacomos/plonetheme.redmusic
+- Issue Tracker: https://github.com/collective/plonetheme.redmusic/issues
+- Source Code: https://github.com/collective/plonetheme.redmusic
 
 
 License
