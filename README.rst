@@ -24,7 +24,7 @@ Screenshots
 
 Layout of the site when viewed in a computer resolution:
 
-.. image:: hhttps://raw.githubusercontent.com/collective/plonetheme.redmusic/master/plonetheme/redmusic/static/preview.png
+.. image:: https://raw.githubusercontent.com/collective/plonetheme.redmusic/master/plonetheme/redmusic/static/preview.png
 
 
 Features
